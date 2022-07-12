@@ -148,7 +148,6 @@ div a:hover{
         margin: 5px;
     }
 
-                                        /* 3rd Section  */
 #image3{
     float: right;
     width: 40%;
@@ -181,7 +180,6 @@ div a:hover{
     text-underline-offset: 15px;
 }
 
-                                        /* 4th Section */
 
 .container5{
     position: relative;
@@ -214,7 +212,6 @@ div a:hover{
 .container6 div img{
     width: 180px;
 }
-                                        /* 6th Section */
 #newest_item{
     font-family: 'Inter', sans-serif;
     position: relative;
@@ -232,7 +229,6 @@ div a:hover{
     width: 180px;
 }
 
-                                        /* See all Section */
 
 
 .see_all{
@@ -253,7 +249,6 @@ a .see_all:hover{
 }
 
 
-                                        /* horizontal rule */
 hr{
     border: #978f8a solid 20px;
     position: relative;
@@ -262,7 +257,6 @@ hr{
    
 }
 
-                                       /* Feedback section */
 .container8{
     position: relative;
     top: 200px;
@@ -326,9 +320,6 @@ hr{
     position: relative;
     bottom: 13px;
 }
-                                        /* Read More */
-
-                                        /* Footer */ 
 .container9{
     display: flex;
     position: relative;
