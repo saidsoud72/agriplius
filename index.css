@@ -88,8 +88,8 @@ div a:hover{
 }
             /* 2nd Section */
 
-.container1{
-    background-image: url('/assets/images/image1.png');
+.section1{
+    background-image: url('/asset/image\ 1.png');
     background-size: contain;
     /* background-repeat: no-repeat; */
     height: 800px;
